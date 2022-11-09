@@ -1,12 +1,16 @@
 #EXTM3U
 #EXTINF:-1 group-title="Kodi By Denver" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png",Star Plus HD
-http://bronzetv.xyz:80/play/live.php?mac=00:1A:79:fe:64:73&stream=161935&extension=ts&play_token=QdcdGNYfs9
+https://tsneh.vercel.app/starpluebydenveriptv
+#EXTINF:-1 group-title="Kodi By Denver" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png",Star Plus 720p
+http://103.72.179.30:1935/GECHindi/STAR_PLUS.stream_720p/Playlist.m3u8
 #EXTINF:-1 group-title="Kodi By Denver" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png",Star Plus FHD
 https://tsneh.vercel.app/star3denvery6yuy67ij
 #EXTINF:-1 group-title="Kodi By Denver" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6895-j6vqhqnc-v2/imageContent-6895-j6vqhqnc-m2.png",Star Bharat FHD
 https://tsneh.vercel.app/star3denvery6yuy6709
+#EXTINF:-1 group-title="Kodi By Denver" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6895-j6vqhqnc-v2/imageContent-6895-j6vqhqnc-m2.png",Star Bharat 720pp
+http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8?token=test
 #EXTINF:-1 group-title="Kodi By Denver" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6895-j6vqhqnc-v2/imageContent-6895-j6vqhqnc-m2.png",Star Bharat HD
-http://bronzetv.xyz:80/play/live.php?mac=00:1A:79:fe:64:73&stream=161926&extension=ts&play_token=sRrBxLBF2A
+https://tsneh.vercel.app/starbharatbydenveriptv
 #EXTINF:-1 group-title="Kodi By Denver" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11807-j9kyzle8-v1/imageContent-11807-j9kyzle8-m1.png",Star Pravah HD
 http://bronzetv.xyz:80/play/live.php?mac=00:1A:79:fe:64:73&stream=161934&extension=ts&play_token=6J3TbXXzNn
 #EXTINF:-1 group-title="Kodi By Denver" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11909-j9l52epk-v2/imageContent-11909-j9l52epk-m4.png",Star Vijay HD
@@ -34,56 +38,60 @@ http://bronzetv.xyz:80/play/live.php?mac=00:1A:79:fe:64:73&stream=20700&extensio
 #EXTINF:-1 group-title="Kodi By Denver" tvg-logo="https://img.live4wap.xyz/images/t/XCOkItPxdk.png",Star Maa HD
 http://bronzetv.xyz:80/play/live.php?mac=00:1A:79:fe:64:73&stream=161931&extension=ts&play_token=tr4gjqhOsj
 #EXTINF:-1 group-title="Kodi By Denver" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG",Star Sports Select 1 HD
-http://bronzetv.xyz:80/play/live.php?mac=00:1A:79:fe:64:73&stream=8008&extension=ts&play_token=GQ9sclC0od
+http://4kmedia.watch:8880/play/live.php?mac=00:1A:79:00:77:3C&stream=862747&extension=ts&play_token=gsN48Eom2R
 #EXTINF:-1 group-title="Kodi By Denver" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png",Star Sports Select 2 HD
-http://bronzetv.xyz:80/play/live.php?mac=00:1A:79:fe:64:73&stream=7886&extension=ts&play_token=fcnc7Rv5Lo
+http://4kmedia.watch:8880/play/live.php?mac=00:1A:79:00:77:3C&stream=862748&extension=ts&play_token=W6R7rTQslX
 #EXTINF:-1 group-title="Kodi By Denver" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png",Star Sports 1 FHD
-http://bronzetv.xyz:80/play/live.php?mac=00:1A:79:fe:64:73&stream=361351&extension=ts&play_token=XOO58oY7av
+http://line.vooiptv.com:80/play/live.php?mac=00:1A:79:d4:b0:7f&stream=946247&extension=ts&play_token=zA1QTwaXZ6
 #EXTINF:-1 group-title="Kodi By Denver" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png",Star Sports 1 HD
-http://bronzetv.xyz:80/play/live.php?mac=00:1A:79:fe:64:73&stream=161936&extension=ts&play_token=OdBDDinpM9
+https://tsneh.vercel.app/gyyyhuujhu7
 #EXTINF:-1 group-title="Kodi By Denver"" tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png",Star Sports 1 Hindi HD
-http://bronzetv.xyz:80/play/live.php?mac=00:1A:79:fe:64:73&stream=161937&extension=ts&play_token=ern6mt8q9o
+https://tsneh.vercel.app/denveriptvstarsports1h
 #EXTINF:-1 group-title="Kodi By Denver"" tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png",Star Sports 1 Hindi HD
-http://bronzetv.xyz:80/play/live.php?mac=00:1A:79:fe:64:73&stream=16906&extension=ts&play_token=aisbBsBoWw
+https://tsneh.vercel.app/xtvstarsportsbydenver
 #EXTINF:-1 group-title="Kodi By Denver"" tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png",Star Sports 1 Hindi HD
-http://iptvtree.net:8080/F17744/f01e18e2/3630
+https://tsneh.vercel.app/iptrestarsportsbydenver
+#EXTINF:-1 group-title="Kodi By Denver"" tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png",Star Sports 1 Hindi HD
+http://line.vooiptv.com:80/play/live.php?mac=00:1A:79:d4:b0:7f&stream=946248&extension=ts&play_token=lm1CEkmQR1
 #EXTINF:-1 group-title="Kodi By Denver"" tvg-logo="https://i.ibb.co/6n2DHkv/download-3.jpg",Star Sports 1 Tamil SD
-http://bronzetv.xyz:80/play/live.php?mac=00:1A:79:fe:64:73&stream=166309&extension=ts&play_token=K5lfXhgS8J
+https://tsneh.vercel.app/xtvstarsportstamilbydenver
 #EXTINF:-1 group-title="Kodi By Denver"" tvg-logo="https://i.ibb.co/CtBqZ83/images-21.jpg",Star Sports 1 Marathi HD
 http://bronzetv.xyz:80/play/live.php?mac=00:1A:79:fe:64:73&stream=361351&extension=ts&play_token=9FuLGqBvL8
 #EXTINF:-1 group-title="Kodi By Denver"" tvg-logo="https://i.ibb.co/CtBqZ83/images-21.jpg",Star Sports 1 Kanada HD
 http://bronzetv.xyz:80/play/live.php?mac=00:1A:79:fe:64:73&stream=164438&extension=ts&play_token=NwscbLS08S
 #EXTINF:-1 group-title="Kodi By Denver" tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png",Star Sports 2 FHD
-http://bronzetv.xyz:80/play/live.php?mac=00:1A:79:fe:64:73&stream=260999&extension=ts&play_token=i31MIQkGbG
+https://tsneh.vercel.app/iptrerstarsports2bydenver
 #EXTINF:-1 group-title="Kodi By Denver" tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png",Star Sports 2 HD
-http://bronzetv.xyz:80/play/live.php?mac=00:1A:79:fe:64:73&stream=7887&extension=ts&play_token=oi83Lcf4mV
+https://tsneh.vercel.app/axrstarsports2bydenver
 #EXTINF:-1 group-title="Kodi By Denver" tvg-logo="https://i.ibb.co/yQjh2Nc/images-19.jpg",Star Sports 3 HD
-http://bronzetv.xyz:80/play/live.php?mac=00:1A:79:fe:64:73&stream=161955&extension=ts&play_token=bdCHpixLrj
+https://tsneh.vercel.app/starsports3bydenver
 #EXTINF:-1 group-title="Kodi By Denver" tvg-logo="https://i.ibb.co/yQjh2Nc/images-19.jpg",Star Sports 3 SD
-http://bronzetv.xyz:80/play/live.php?mac=00:1A:79:fe:64:73&stream=82401&extension=ts&play_token=xjzeY1MmK0
+https://tsneh.vercel.app/starsports3bydenveriptv
 #EXTINF:-1 group-title="Kodi By Denver" tvg-logo="https://i.ibb.co/6RYtksd/images-20.jpg",Star Sports First
 https://tsneh.vercel.app/gtvgo78866
+#EXTINF:-1 group-title="Kodi By Denver" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9820-j85ijtd4-v1/imageContent-9820-j85ijtd4-m1.png",Star Gold FHD
+https://tsneh.vercel.app/denveriptvsuyhu6hjuiij
 #EXTINF:-1 group-title="Kodi By Denver" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9820-j85ijtd4-v1/imageContent-9820-j85ijtd4-m1.png",Star Gold HD
-http://bronzetv.xyz:80/play/live.php?mac=00:1A:79:fe:64:73&stream=8015&extension=ts&play_token=padE4jWQar
-#EXTINF:-1 group-title="Kodi By Denver" tvg-logo="https://i.ibb.co/68tTWDr/images-1-1.png",Star Gold Select HD
-http://bronzetv.xyz:80/play/live.php?mac=00:1A:79:fe:64:73&stream=8703&extension=ts&play_token=rIHa23x9hw
+https://tsneh.vercel.app/denveriptvstargold
+#EXTINF:-1 group-title="Kodi By Denver" tvg-logo="https://i.ibb.co/68tTWDr/images-1-1.png",Star Gold Select SD
+https://tsneh.vercel.app/denveriptvstargolds1
 #EXTINF:-1 group-title="Kodi By Denver" tvg-logo="https://i.ibb.co/DKq6TqR/images-2-1.png",Star Gold 2
-http://bronzetv.xyz:80/play/live.php?mac=00:1A:79:fe:64:73&stream=86051&extension=ts&play_token=ALLM6rdqkw
-#EXTINF:-1 group-title="Kodi By Denver" tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png",Disney
-http://bronzetv.xyz:80/play/live.php?mac=00:1A:79:fe:64:73&stream=161864&extension=ts&play_token=rRIcqNSXbb
+http://4kmedia.watch:8880/play/live.php?mac=00:1A:79:00:77:3C&stream=862737&extension=ts&play_token=hR3hLV1uE4
+#EXTINF:-1 group-title="Kodi By Denver" tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png",Disney multi language
+https://tsneh.vercel.app/disneybydenveriptv
 #EXTINF:-1 group-title="Kodi By Denver" tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png",Disney 2
 https://tsneh.vercel.app/denverdisney2
 #EXTINF:-1 group-title="Kodi By Denver" tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png",Disney Multi language
 https://tsneh.vercel.app/denveriptvdisney
 #EXTINF:-1 group-title="Kodi By Denver" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24724-jgvwokqw-v1/imageContent-24724-jgvwokqw-m1.png",Discovery kids
-http://bronzetv.xyz:80/play/live.php?mac=00:1A:79:fe:64:73&stream=161857&extension=ts&play_token=fr3IQUUQ9H
+https://tsneh.vercel.app/denveriptvdisneykids
 #EXTINF:-1 group-title="Kodi By Denver" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35368-jr3xz7xs-v1/imageContent-35368-jr3xz7xs-m1.png",Disney Junior
-http://bronzetv.xyz:80/play/live.php?mac=00:1A:79:fe:64:73&stream=161865&extension=ts&play_token=cIJ6YfSARO
+https://tsneh.vercel.app/denveriptvdisneyjr
 #EXTINF:-1 group-title="Kodi By Denver" tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-2694-j638bugw-v1/imageContent-2694-j638bugw-m1.png",Pogo
-http://bronzetv.xyz:80/play/live.php?mac=00:1A:79:fe:64:73&stream=20067&extension=ts&play_token=uCHjAuTigF
+https://tsneh.vercel.app/pogobydenver
 #EXTINF:-1 group-title="Kodi By Denver" tvg-logo="https://i.postimg.cc/MH1j1804/t0Ecro6.png",Hungama
-http://bronzetv.xyz:80/play/live.php?mac=00:1A:79:fe:64:73&stream=161878&extension=ts&play_token=OHjRw9ehbD
-#EXTINF:-1 group-title="Kodi By Denver" tvg-logo="https://i.postimg.cc/MH1j1804/t0Ecro6.png",Hungama ( Tamil )
-https://tsneh.vercel.app/uyhhijhuyyh
+http://4kmedia.watch:8880/play/live.php?mac=00:1A:79:00:77:3C&stream=862674&extension=ts&play_token=3NxdNI1YMR
+#EXTINF:-1 group-title="Kodi By Denver" tvg-logo="https://i.postimg.cc/MH1j1804/t0Ecro6.png",Hungama tv multi language
+https://tsneh.vercel.app/hungamatvbydenver
 #EXTINF:-1 group-title="Kodi By Denver" tvg-logo="https://i.ibb.co/1T67BVx/Super-Hungama-Logo.png",Super Hungama
-http://bronzetv.xyz:80/play/live.php?mac=00:1A:79:fe:64:73&stream=192745&extension=ts&play_token=eIU8lfjwTt
+http://4kmedia.watch:8880/play/live.php?mac=00:1A:79:00:77:3C&stream=862679&extension=ts&play_token=WEAgfMSV8I
